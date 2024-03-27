@@ -42,13 +42,5 @@ namespace com.victorafael.tracking
 
             m_rectTransform.anchoredPosition = anchorPos * m_parent.sizeDelta;
         }
-
-        void OnDrawGizmos()
-        {
-            if (tracking && trackedObject != null)
-            {
-                Gizmos.DrawSphere(trackedObject.position, 0.1f);
-            }
-        }
     }
 }
