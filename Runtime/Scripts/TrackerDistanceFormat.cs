@@ -13,6 +13,7 @@ namespace com.victorafael.tracking
         public UnityEvent<string> updateText;
         public bool metricSystem = true;
         public bool displayUnit = true;
+        public string format = "F0";
 
         private StringBuilder stringBuilder = new StringBuilder();
 
@@ -44,7 +45,7 @@ namespace com.victorafael.tracking
             }
             stringBuilder.Clear();
 
-            stringBuilder.Append(distance.ToString("F2"));
+            stringBuilder.Append(distance.ToString(format));
 
             if (displayUnit)
             {
