@@ -1,0 +1,10 @@
+{
+  "name": "victorafael.itemtracker",
+  "version": "0.0.1",
+  "displayName": "UI Item Tracker",
+  "description": "Item tracking system using Canvas and Sprite Swapping",
+  "author": {
+    "name": "Victor Rafael",
+    "email": "vrnsantos@gmail.com"
+  }
+}

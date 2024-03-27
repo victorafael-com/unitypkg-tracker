@@ -1,0 +1,16 @@
+{
+    "name": "com.victorafael.uitracker.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:65803742ed2f63f428e2affb515d930e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
