@@ -1,8 +1,8 @@
 {
-  "name": "victorafael.itemtracker",
-  "version": "0.0.1",
-  "displayName": "UI Item Tracker",
-  "description": "Item tracking system using Canvas and Sprite Swapping",
+  "name": "victorafael.tracking",
+  "version": "0.1.0",
+  "displayName": "Item and Position Tracker",
+  "description": "Item and Position tracker with ready to use components",
   "author": {
     "name": "Victor Rafael",
     "email": "vrnsantos@gmail.com"
